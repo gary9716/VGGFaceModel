@@ -1,0 +1,4 @@
+originalParts
+*.png
+VGG*
+**/*.ipynb
